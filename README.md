@@ -13,4 +13,4 @@ I started out with Firebase as a NoSQL database, it proved to be really easy and
 I decided to start with Electron as it allowed me to use my front end web development stack seemlessly, after a day of experimenting I've gotten a simple task tracker but I realised how big Electron apps were, with a simple app like that taking upwards of 250mb, I decided to switch to Tauri and after another day I had the same task tracker remade with more functionalities coming in at a whopping 4mb in size. Tauri also forced me to learn Rust, but I dont consider myself a Rust developer just yet due to my inexperience with it.
 
 # 📕 Note
-This github account is solely created for the reason of showcasing my skillset by making all of the projects on this account be well documented which allows anyone for easy exploration of my past experiences; you can think of it as a portfolio for future work opportunities.
+This github account is solely created for the reason of showcasing my skillset by making all of the projects on this account be well documented which allows anyone easy exploration of my past experiences; you can think of it as a portfolio for future work opportunities.
