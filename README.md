@@ -6,7 +6,7 @@ I've started programming simple games in 2018, further developing my skills with
 I use GML alongside GMS2 to create 2D games, I have knowledge in A* path finding, state managment, physics simulations and many more topics which prove to be useful in developing games. I also learned Node.js to make multiplayer experiences in which I succeeded pretty early on, it inspired me to learn more and I eventually stumbled upon Javascript which is where my web development journey started. (Yes, I accidentally learned Node.js *before* Javascript)
 ## 🌐 Web development
 ### 🖌️ Frontend
-I use React due to the way it handles components, it's really simple and results in very readable code, alongside React I use Mantine as the component library which helps me figure out future steps of projects by creating prototypes in less time than ever (I also have experience in Sass as the style preprocessor but I usually dont need it and find myself using plain CSS or PostCSS instead).
+I use React due to the way it handles components, it's really simple and results in very readable code, alongside React I usually use Mantine as the component library; I like to keep my stack minimal so whenever Mantine is not necessary (eg. in small one-time projects), I only use CSS Modules and if the project has loads of classes, I like to also use PostCSS.
 ### 💿 Backend
 I started out with Firebase as a NoSQL database, it proved to be really easy and it's a really useful tool in my skillset, later on I decided to learn how to make RESTful APIs for my websites using Node & Express which allowed me to process HTTP requests and store server-side data.
 ## 🛠️ Software development
