@@ -1,9 +1,9 @@
 # Hi, I'm Olly! 👋
 I've started programming simple games in 2018, further developing my skills with web development in 2020 and recently in 2022 starting my journey with software & back-end development.
 
-### Languages
+**Languages**
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <a target="_blan" href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://cdn.simpleicons.org/javascript/black/white" width="32px" height="32px" />
   </a>
   <a href="https://www.typescriptlang.org/">
@@ -23,7 +23,7 @@ I've started programming simple games in 2018, further developing my skills with
   </a>
 </div>
 
-### Libraries & Frameworks
+**Libraries & Frameworks**
 <div>
   <a href="https://react.dev/">
   <img src="https://cdn.simpleicons.org/react/black/white" width="32px" height="32px" />
@@ -57,7 +57,7 @@ I've started programming simple games in 2018, further developing my skills with
   </a>
 </div>
 
-### Software
+**Software**
 <div>
   <a href="https://www.mysql.com/">
   <img src="https://cdn.simpleicons.org/mysql/black/white" width="32px" height="32px" />
@@ -79,7 +79,7 @@ I've started programming simple games in 2018, further developing my skills with
   </a>
 </div>
 
-### Tools
+**Tools**
 <div>
   <a href="https://firebase.google.com/">
   <img src="https://cdn.simpleicons.org/firebase/black/white" width="32px" height="32px" />
