@@ -3,7 +3,7 @@ I've started programming simple games in 2018, further developing my skills with
 
 **Languages**
 <div>
-  <a target="_blan" href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://cdn.simpleicons.org/javascript/black/white" width="32px" height="32px" />
   </a>
   <a href="https://www.typescriptlang.org/">
@@ -89,6 +89,9 @@ I've started programming simple games in 2018, further developing my skills with
   </a>
   <a href="https://www.canva.com/">
   <img src="https://cdn.simpleicons.org/canva/black/white" width="32px" height="32px" />
+  </a>
+  <a href="https://www.npmjs.com/">
+  <img src="https://cdn.simpleicons.org/npm/black/white" width="32px" height="32px" />
   </a>
 </div>
 
