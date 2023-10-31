@@ -2,7 +2,7 @@
 I've started programming simple games in 2018, further developing my skills with web development in 2020 and recently in 2022 starting my journey with software & back-end development.
 
 ### Languages
-<div style="margin: -10px 0px -20px">
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://cdn.simpleicons.org/javascript/black/white" width="32px" height="32px" />
   </a>
@@ -24,7 +24,7 @@ I've started programming simple games in 2018, further developing my skills with
 </div>
 
 ### Libraries & Frameworks
-<div style="margin: -10px 0 -20px 0">
+<div>
   <a href="https://react.dev/">
   <img src="https://cdn.simpleicons.org/react/black/white" width="32px" height="32px" />
   </a>
@@ -58,7 +58,7 @@ I've started programming simple games in 2018, further developing my skills with
 </div>
 
 ### Software
-<div style="margin: -10px 0 -20px 0">
+<div>
   <a href="https://www.mysql.com/">
   <img src="https://cdn.simpleicons.org/mysql/black/white" width="32px" height="32px" />
   </a>
@@ -80,7 +80,7 @@ I've started programming simple games in 2018, further developing my skills with
 </div>
 
 ### Tools
-<div style="margin: -10px 0 -10px 0">
+<div>
   <a href="https://firebase.google.com/">
   <img src="https://cdn.simpleicons.org/firebase/black/white" width="32px" height="32px" />
   </a>
