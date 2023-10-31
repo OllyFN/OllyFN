@@ -93,6 +93,9 @@ I've started programming simple games in 2018, further developing my skills with
   <a href="https://www.npmjs.com/">
   <img src="https://cdn.simpleicons.org/npm/black/white" width="32px" height="32px" />
   </a>
+  <a href="https://trello.com/">
+  <img src="https://cdn.simpleicons.org/trello/black/white" width="32px" height="32px" />
+  </a>
 </div>
 
 # 🧑‍ Skillset & about me 
