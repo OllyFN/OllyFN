@@ -84,6 +84,9 @@ I've started programming simple games in 2018, further developing my skills with
   <a href="https://firebase.google.com/">
   <img src="https://cdn.simpleicons.org/firebase/black/white" width="32px" height="32px" />
   </a>
+  <a href="https://vitejs.dev/">
+  <img src="https://cdn.simpleicons.org/vite/black/white" width="32px" height="32px" />
+  </a>
   <a href="https://github.com/">
   <img src="https://cdn.simpleicons.org/github/black/white" width="32px" height="32px" />
   </a>
