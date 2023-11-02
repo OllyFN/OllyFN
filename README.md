@@ -1,5 +1,5 @@
 # Hi, I'm Olly! 👋
-I've started programming simple games in 2018, further developing my skills with web development in 2020 and recently in 2022 starting my journey with software & back-end development.
+I am a fullstack developer constantly looking to improve, check out my [2023 Roadmap!](https://ollyfn.github.io/)
 
 **Languages**
 <div>
