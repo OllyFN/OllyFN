@@ -15,6 +15,9 @@ I am a fullstack developer constantly looking to improve, check out my [2023 Roa
   <a href="https://en.wikipedia.org/wiki/CSS">
   <img src="https://cdn.simpleicons.org/css3/black/white" width="32px" height="32px" />
   </a>
+  <a href="https://svelte.dev/">
+  <img src="https://cdn.simpleicons.org/svelte/black/white" width="32px" height="32px" />
+  </a>
   <a href="https://gamemaker.io/">
   <img src="https://cdn.simpleicons.org/gamemaker/black/white" width="32px" height="32px" />
   </a>
@@ -36,6 +39,9 @@ I am a fullstack developer constantly looking to improve, check out my [2023 Roa
   </a>
   <a href="https://mantine.dev/">
   <img src="https://cdn.simpleicons.org/mantine/black/white" width="32px" height="32px" />
+  </a>
+  <a href="https://jestjs.io/">
+  <img src="https://cdn.simpleicons.org/jest/black/white" width="32px" height="32px" />
   </a>
   <a href="https://www.npmjs.com/package/babel-plugin-react-css-modules">
   <img src="https://cdn.simpleicons.org/cssmodules/black/white" width="32px" height="32px" />
