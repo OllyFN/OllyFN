@@ -127,7 +127,7 @@ I decided to start with Electron as it allowed me to use my front end web develo
 ## 🧪 Testing
 I recently began using Jest and the Testing Library for application testing. These tools have improved my developer experience and boosted my confidence in the quality of my applications. Looking ahead, I'm excited to learn Cypress and BrowserStack to enhance my testing skills even further.
 
-## Education
+## 🎓 Education
 I passed my GCSE's with a grade 7 in Maths & it's currently my 2nd year at [Nottingham College](https://www.nottinghamcollege.ac.uk/) where I am studying [Information and Creative Technology Level 2](https://www.nottinghamcollege.ac.uk/courses/information-and-creative-technology-btec-level-1-full-time), with my prior course being [BTEC Vocational Studies Level 1](https://www.nottinghamcollege.ac.uk/courses/progress-to-level-2) in which I served as a Student Representative & recieved a Pearson Distinction Certificate. My current goal is to continue studying towards the [Extended BTEC Diploma](https://en.wikipedia.org/wiki/BTEC_Extended_Diploma) which is equivalent to three A2 awards.
 # 📕 Note
 This github account is solely created for the reason of showcasing my skillset by making all of the projects on this account be well documented which allows anyone easy exploration of my past experiences; you can think of it as a portfolio for future work opportunities.
