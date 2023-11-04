@@ -116,18 +116,18 @@ I use GML alongside GMS2 to create 2D games, I have knowledge in A* path finding
 learned Node.js *before* Javascript)
 
 ## 🌐 Web development
-I mainly use React & Svelte due to the component based architecture, it results in very readable code, alongside React I usually use Mantine as the component library; however I do like to keep my stack minimal so whenever Mantine is not necessary (eg. in small one-time projects), I find PostCSS to be more than enough.
+I mainly use React & Svelte due to the component based architecture, it results in very readable code, alongside React I usually use Mantine as the component library; however I do like to keep my stack minimal so whenever Mantine is not necessary, I find PostCSS to be more than enough.
 
 ## 💿 Backend development
 I've started backend development by learning Firebase to use as a NoSQL database which I used together with Node and Express to create RESTful APIs. I've also worked with SQL and MySQL to create full-stack applications, gaining experience in handling server-side data and database design.
 
 ## 🛠️ Software development
-I decided to start with Electron as it allowed me to use my front end web development stack seemlessly, after a day of experimenting I've gotten a simple task tracker but I realised how big Electron apps were, with a simple app like that taking upwards of 250mb, I decided to switch to Tauri and after another day I had the same task tracker remade with more functionalities coming in at a whopping 4mb in size. Tauri also forced me to learn Rust, but I dont consider myself a Rust developer just yet due to my inexperience with it.
+I initially started with Electron for its seamless integration with my web development stack. However, I later switched to Tauri, which enabled me to create more efficient & smaller applications while also introducing me to Rust, a language I'm still in the process of learning.
 
 ## 🧪 Testing
 I recently began using Jest and the Testing Library for application testing. These tools have improved my developer experience and boosted my confidence in the quality of my applications. Looking ahead, I'm excited to learn Cypress and BrowserStack to enhance my testing skills even further.
 
-## 💻 Software Expertise
+## 💻 Software expertise
 I am proficient in Adobe Photoshop and Premiere Pro, excelling in graphic design, image editing, video production, and I also have some experience in 3D modeling and animation. My skills encompass a broad range of multimedia and creative tasks.
 
 ## 🎓 Education
