@@ -24,6 +24,9 @@ I am a fullstack developer constantly looking to improve, check out my [2023 Roa
   <a href="https://en.wikipedia.org/wiki/Markdown">
   <img src="https://cdn.simpleicons.org/markdown/black/white" width="32px" height="32px" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/SVG">
+  <img src="https://cdn.simpleicons.org/svg/black/white" width="32px" height="32px" />
+  </a>
 </div>
 
 **Libraries & Frameworks**
