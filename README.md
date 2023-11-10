@@ -40,14 +40,20 @@ I am a fullstack developer constantly looking to improve, check out my [2023 Roa
   <a href="https://expressjs.com/">
   <img src="https://cdn.simpleicons.org/express/black/white" width="32px" height="32px" />
   </a>
-  <a href="https://mantine.dev/">
-  <img src="https://cdn.simpleicons.org/mantine/black/white" width="32px" height="32px" />
+  <a href="https://redux.js.org">
+  <img src="https://cdn.simpleicons.org/redux/black/white" width="32px" height="32px" />
   </a>
   <a href="https://jestjs.io/">
   <img src="https://cdn.simpleicons.org/jest/black/white" width="32px" height="32px" />
   </a>
+  <a href="https://mantine.dev/">
+  <img src="https://cdn.simpleicons.org/mantine/black/white" width="32px" height="32px" />
+  </a>
   <a href="https://www.npmjs.com/package/babel-plugin-react-css-modules">
   <img src="https://cdn.simpleicons.org/cssmodules/black/white" width="32px" height="32px" />
+  </a>
+  <a href="https://prettier.io">
+  <img src="https://cdn.simpleicons.org/prettier/black/white" width="32px" height="32px" />
   </a>
   <a href="https://postcss.org/">
   <img src="https://cdn.simpleicons.org/postcss/black/white" width="32px" height="32px" />
